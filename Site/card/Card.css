@@ -1,0 +1,32 @@
+.Card {
+    display: flex;
+    padding: 50px 30px;
+    justify-content: center;
+    gap: 30px;
+}
+
+.Card .cardLeft {
+    width: 50%;
+}
+.cardLeft img {
+    width: 100%;
+}
+.Card .cardRight {
+    width: 50%;
+    padding-left: 50px;
+}
+.cardColors {
+    display: flex;
+    gap: 20px;
+}
+.cardColors .cardColor {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.cardRight p {
+    font-weight: 600;
+    font-size: 20px;
+    padding: 45px 10px;
+}

@@ -1,0 +1,29 @@
+.navbarMenu{
+    padding: 40px 0px;
+    margin: auto;
+    text-align: center;
+}
+
+
+.navbarSearch{
+    display: flex;
+    justify-content: space-evenly;
+}
+.search input{
+    padding: 10px 10px;
+    border: none;
+    box-shadow: 1px 1px 5px 1px gray;
+}
+.search button{
+    padding: 10px 10px;
+    border: none;
+    box-shadow: 1px 1px 5px 1px gray;
+}
+.nanvbarMenu select{
+    padding: 10px 10px;
+    border: none;
+    box-shadow: 1px 1px 5px 1px gray;
+}
+.nanvbarMenu option{
+    background-color: rgb(241, 238, 233);
+}
